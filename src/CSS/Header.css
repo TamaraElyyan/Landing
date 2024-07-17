@@ -1,0 +1,40 @@
+.header{
+    font-family: 'Roboto', sans-serif; 
+    width: 1440px;
+    height:60px;
+}
+
+.buy-now-btn {
+    background-color: #111B47;
+    color: white;
+    border: none; /* Remove border if desired */
+    padding: 10px 20px; /* Adjust padding as needed */
+    font-size: 12px; /* Font size */
+    font-weight: 500; /* Font weight */
+    line-height: 18px; /* Line height */
+   
+  }
+
+.h3-title {
+    font-family: 'Roboto', sans-serif; /* Font family */
+    font-size: 26px; /* Font size */
+    font-weight: 900; /* Font weight */
+    line-height: 38px; /* Line height */
+    text-align: left; /* Text alignment */
+    color:#37447E;
+
+  }
+
+
+  .navbar {
+    width: 245px;
+    height: 24px;
+    position: absolute;
+    top: 18px;
+    left: 165px;
+    gap: 0px;
+    opacity: 0px;
+  }
+  
+  
+  
