@@ -1,6 +1,9 @@
 import React from 'react';
 import Icon from './../assets/SVG/icon.svg';
 
+import feature from './../assets/SVG/feature.svg';
+
+
 const FeaturesSection = () => {
   return (
     <section className="text-center p-5">
@@ -21,7 +24,7 @@ const FeaturesSection = () => {
         </div>
       </div>
       <div>
-        <img src="./../assets/feature-image.png" alt="Illustration" className="img-fluid" />
+        <img src={feature} alt="Illustration" className="img-fluid" />
       </div>
     </section>
   );
