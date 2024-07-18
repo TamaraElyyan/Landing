@@ -1,0 +1,59 @@
+
+.hero-section .lead {
+    font-family: 'Roboto', sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+    text-align: left;
+    color: #505F98;
+  }
+  
+  .hero-section img {
+    max-width: 100%;
+    height: auto;
+  }
+  
+  .hero-section h1 {
+    font-family: 'Roboto', sans-serif;
+    font-size: 50px;
+    font-weight: 500;
+    line-height: 66px;
+    letter-spacing: 1px;
+    text-align: left;
+  }
+  
+  .hero-section .btn-primary {
+    background-color: #111B47;
+    border: none;
+    width: 189.13px;
+    height: 36px;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 20px;
+    color: white;
+  }
+  
+  .hero-section .btn-outline-primary {
+    border: 1px solid #111B47;
+    width: 189.13px;
+    height: 36px;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 20px;
+    color: #111B47;
+  }
+  
+  .hero-section .btn-outline-primary:hover,
+  .hero-section .btn-outline-primary:focus,
+  .hero-section .btn-outline-primary:active {
+    border: 1px solid #111B47; /* Keep border color */
+    background-color: transparent; /* Keep background color transparent */
+    color: #111B47; /* Keep text color */
+  }
+  
+  .hero-section .btn-wrapper {
+    display: flex;
+    gap: 10px;
+    margin-top: 20px; /* Adjust margin as needed */
+  }
+  
